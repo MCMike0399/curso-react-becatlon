@@ -1,0 +1,6 @@
+.producto:hover {
+   background-color: red;
+}
+.producto:active {
+   background-color: lightblue;
+}
